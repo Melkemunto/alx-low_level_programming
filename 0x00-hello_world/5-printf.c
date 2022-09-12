@@ -2,6 +2,7 @@
 /*
  * main - prints the phrase with proper grammar,
  * but the outcome is a piece of art,
+ * Description: this program shows the use of printf
  * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
